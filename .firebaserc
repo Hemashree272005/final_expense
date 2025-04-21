@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "dummy-27d58",
+    "staging": "dummy-27d58"
+  },
+  "targets": {},
+  "etags": {}
+}
